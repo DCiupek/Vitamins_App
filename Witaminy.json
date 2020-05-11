@@ -1,0 +1,408 @@
+[
+ {
+   "id": "a",
+   "objawy nadmiaru": [
+      "Nadpobudliwosc",
+      "Wymioty",
+      "Bole glowy",
+      "Bole stawow",
+      "Bole miesni",
+      "Zaburzenie funkcjonowania watroby",
+      "zolte zabarwienie skory",
+      "Zmniejszona zawartosc wapnia w kosciach"
+   ],
+   "objawy niedoboru": [
+      "Problemy z wzrokiem - 'kurza slepota'",
+      "Wypadanie wlosow",
+      "Zahamowanie wzrostu",
+      "Sucha skora",
+      "Wysypka",
+      "Tradzik",
+      "Suchosc galki ocznej - rogowki i spojowki",
+      "Kruche paznokcie",
+      "Zwiekszona podatnosc na infekcje wirusowe i bakteryjne",
+      "Biegunki"
+   ],
+   "wystepowanie": [
+      "Tran",
+      "Watroba wieprzowa",
+      "Marchew",
+      "Maslo",
+      "Margaryna",
+      "Papryka czerwona",
+      "Ser zolty",
+      "Jaja",
+      "Brokuly",
+      "Pomidory",
+      "Brzoskwinie"
+   ]
+},
+ {
+   "id": "D",
+   "objawy nadmiaru": [
+      "Wymioty",
+      "Bole brzucha",
+      "Bole glowy",
+      "Bole oczu",
+      "Brak apetytu",
+      "Zaparcia",
+      "Oslabienie",
+      "Nadmierne pragnienie",
+      "Nadpobudliwosc",
+      "Powiekszona sledziona",
+      "Powiekszona watroba",
+      "Zaburzenie pracy mozgu",
+      "Drgawki",
+      "Wzmozona potliwosc",
+      "Wzmozone oddawanie moczu"
+   ],
+   "objawy niedoboru": [
+      "Bole miesni",
+      "Bezsennosc",
+      "Biegunki",
+      "Szybkie przemeczanie sie",
+      "Choroby przyzebia",
+      "Problemy z apetytem",
+      "Nadcisnienie",
+      "Nadwaga"
+   ],
+   "wystepowanie": [
+      "Sledz",
+      "Losos",
+      "Makrela",
+      "Margaryna",
+      "Jaja",
+      "Watroba wieprzowa",
+      "Dorsz"
+   ]
+},
+ {
+   "id": "E",
+   "objawy nadmiaru": [
+      "Bole glowy",
+      "Zmeczenie",
+      "Zaburzenia w gospodarce jelitowej",
+      "Zaburzenia  funkcjonowaniu miesni"
+   ],
+   "objawy niedoboru": [
+      "Zmeczenie",
+      "anemia",
+      "Klopoty z koncentracja",
+      "Problemy ze wzrokiem",
+      "Nieplodnosc",
+      "Wypadanie wlosow"
+   ],
+   "wystepowanie": [
+      "Orzechy laskowe",
+      "Nasiona slonecznika",
+      "Pestki dyni",
+      "Migdaly",
+      "Margaryna",
+      "Oleje roslinne",
+      "Papryka czerwona",
+      "Papryka zielona",
+      "Natka pietruszki",
+      "Orzechy wloskie",
+      "Pomidory",
+      "Czarne jagody"
+   ]
+},
+ {
+   "id": "K",
+   "objawy nadmiaru": [
+      "Wzmozona potliwosc",
+      "Bol serca",
+      "Niedokrwistosc",
+      "anemia",
+      "Zapalenie jelita"
+   ],
+   "objawy niedoboru": [
+      "Zaburzenia krzepliwosci",
+      "Krwawienie z nosa",
+      "Krwawienie z dziasel",
+      "Utrudnione gojenie sie ran",
+      "Sklonnosc do wystepowania sincow",
+      "Sklonnosc do zlaman"
+   ],
+   "wystepowanie": [
+      "Brokuly",
+      "Jarmuz",
+      "Salata",
+      "Szpinak",
+      "Brukselka",
+      "Watroba wolowa",
+      "Kapusta",
+      "Kalafior",
+      "Mleko"
+   ]
+},
+ {
+   "id": "B1",
+   "objawy nadmiaru": [
+      "Brak"
+   ],
+   "objawy niedoboru": [
+      "Bole miesni",
+      "Problemy z pamiecia",
+      "Problemy z koncentracja",
+      "Zmeczenie",
+      "Depresja",
+      "Opuchlizna konczyn gornych i dolnych",
+      "Wymioty",
+      "Biegunka",
+      "Brak apetytu",
+      "Przyspieszona praca miesnia sercowego",
+      "Utrata masa ciala",
+      "Spadek libido",
+      "Powiekszenie miesnia sercowego"
+   ],
+   "wystepowanie": [
+      "Orzechy pistacjowe",
+      "Orzechy arachidowe",
+      "Wieprzowina",
+      "Kasza manna",
+      "Kalafior",
+      "Por",
+      "Mandarynki",
+      "Wolowina",
+      "Pieczywo zytnie",
+      "Pieczywo pszenne"
+   ]
+},
+ {
+   "id": "B2",
+   "objawy nadmiaru": [
+      "Ciemnozolty mocz",
+      "Wymioty"
+   ],
+   "objawy niedoboru": [
+      "Problemy z wzrokiem",
+      "Niedokrwistosc",
+      "Wypadanie wlosow",
+      "Zapalenie sluzowki jamy ustnej i nosa",
+      "Bezsennosc",
+      "Oslabienie koncentracji",
+      "Biegunka",
+      "Zapalenie skory",
+      "Lojotok",
+      "Swiatlowstret"
+   ],
+   "wystepowanie": [
+      "Mleko",
+      "Ser zolty",
+      "Ser twarogowy",
+      "Jaja",
+      "Wieprzowina",
+      "Wolowina",
+      "Mieso indycze",
+      "Mieso kurczaka",
+      "Kasza jaglana",
+      "Kasza gryczana"
+   ]
+},
+ {
+   "id": "B3 (PP)",
+   "objawy nadmiaru": [
+      "Sucha skora",
+      "Wysypka",
+      "Bole brzucha",
+      "Mdlosci",
+      "Niewydolnosc watroby",
+      "Hiperglikemia",
+      "arytmia"
+   ],
+   "objawy niedoboru": [
+      "Depresja",
+      "Stany zapalne skory",
+      "Niedokrwistosc",
+      "Zaburzenia orientacji przestrzennej",
+      "Problemy z pamiecia",
+      "Biegunka",
+      "Zaparcia",
+      "Wymioty",
+      "Plesniawki w jamie ustnej",
+      "Zaczerwieniony jezyk"
+   ],
+   "wystepowanie": [
+      "Cielecina",
+      "Wieprzowina",
+      "Wolowina",
+      "Mieso indycze",
+      "Mieso kurczaka",
+      "losos",
+      "Makrela"
+   ]
+},
+ {
+   "id": "B5",
+   "objawy nadmiaru": [
+      "Biegunka"
+   ],
+   "objawy niedoboru": [
+      "Skurcze nog",
+      "Bole miesni",
+      "Wypadanie wlosow",
+      "Tradzik",
+      "Sucha skora",
+      "Pekanie skory w kacikach ust",
+      "Problemy z wzrokiem",
+      "Zaburzenia snu",
+      "Biegunka",
+      "Wzdecia",
+      "Niestrawnosc",
+      "Obnizona odpornosc",
+      "Zaburzenie pracy ukladu sercowo-naczyniowego",
+      "Utrudnione gojenie sie ran"
+   ],
+   "wystepowanie": [
+      "Drozdze piwne",
+      "Ziemniaki",
+      "Otreby pszenne",
+      "Mleko",
+      "Mieso kurczaka",
+      "Jaja",
+      "Pieczywo pelnoziarniste",
+      "Pomarancze",
+      "Brokuly",
+      "Soja"
+   ]
+},
+ {
+   "id": "B6",
+   "objawy nadmiaru": [
+      "Brak koordynacji ruchowej",
+      "Dlugotrwale uczucie chlodu"
+   ],
+   "objawy niedoboru": [
+      "Zmiany zapalne skory i blon sluzowych",
+      "Zmiany w obwodowym ukladzie nerwowym",
+      "Zwiekszona podatnosc na zakazenia",
+      "Niedokrwistosc",
+      "apatia",
+      "Depresja",
+      "Bezsennosc"
+   ],
+   "wystepowanie": [
+      "Kasza gryczana",
+      "Ziemniaki",
+      "Papryka czerwona",
+      "Brukselka",
+      "Kapusta pekinska",
+      "Mieso kurczaka",
+      "Mieso indycze",
+      "Wolowina wieprzowina",
+      "Pieczywo zytnie"
+   ]
+},
+ {
+   "id": "B7 (H)",
+   "objawy nadmiaru": [
+      "Brak"
+   ],
+   "objawy niedoboru": [
+      "Luszczycowe zmiany skorne",
+      "Zaburzenia w metabolizmie",
+      "Zwiekszenie stezenia cholesterolu w surowicy"
+   ],
+   "wystepowanie": [
+      "Watroba",
+      "Soja",
+      "Orzechy",
+      "Wieprzowina",
+      "Mieso drobiowe",
+      "Mleko kalafior"
+   ]
+},
+ {
+   "id": "B9",
+   "objawy nadmiaru": [
+      "Depresja",
+      "Bezsennosc",
+      "Rozdraznienie",
+      "Zaburzenia zoladkowo-jelitowe"
+   ],
+   "objawy niedoboru": [
+      "Oslabienie",
+      "Sucha skora",
+      "Wypadanie wlosow",
+      "Bole glowy",
+      "Bezsennosc",
+      "Wahania nastroju",
+      "Utrata masy ciala",
+      "Kolatanie serca",
+      "Problemy z koncentracja",
+      "Dusznosci"
+   ],
+   "wystepowanie": [
+      "Kurza watroba",
+      "Soja",
+      "Otreby pszenne",
+      "Szpinak",
+      "Szparagi",
+      "Bob",
+      "Brukselka",
+      "Kalafior",
+      "Brokuly",
+      "Groszek zielony",
+      "Jaja"
+   ]
+},
+ {
+   "id": "B12",
+   "objawy nadmiaru": [
+      "Reakcje alorgiczne"
+   ],
+   "objawy niedoboru": [
+      "Oslabienie",
+      "Bole glowy",
+      "Zawroty glowy",
+      "Skora o odcieniu zolto-cytrynowym",
+      "Pieczenie jezyka",
+      "Utrata apetytu",
+      "Biegunka",
+      "Zaparcia",
+      "Utrata wagi",
+      "Niestabilnosc chodu",
+      "Depresja"
+   ],
+   "wystepowanie": [
+      "Ser zolty",
+      "Mleko",
+      "Ser twarogowy",
+      "Jaja",
+      "Wieprzowina",
+      "Wolowina",
+      "Mieso indycze",
+      "Mieso kurczaka"
+   ]
+},
+ {
+   "id": "C",
+   "objawy nadmiaru": [
+      "Wysypka",
+      "Biegunka"
+   ],
+   "objawy niedoboru": [
+      "Utrudnione gojenie sie ran",
+      "Bole miesni",
+      "Utrata apetytu",
+      "Ogolne oslabienie",
+      "Osteoporoza",
+      "Depresja",
+      "Nadczynnosc tarczycy",
+      "Infekcje i zapalenie blony sluzowej",
+      "Obnizona odpornosc"
+   ],
+   "wystepowanie": [
+      "Natka pietruszki",
+      "Papryka czerwona",
+      "Porzeczka czarna",
+      "Brukselka",
+      "Brokuly",
+      "Truskawki",
+      "Kiwi",
+      "Pomarancza"
+   ]
+},
+
+]
