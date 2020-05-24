@@ -66,10 +66,10 @@ class MainActivity : AppCompatActivity() {
 
                     if(newText!!.isNotEmpty()){
                         displayList.clear()
-                        val search = newText
+                        val search = newText.toLowerCase()
                         vitaminy.forEach {
-                            val nadmiar= it.objawy_nadmiaru?.joinToString(" ")
-                            val niedobor = it.objawy_niedoboru?.joinToString(" ")
+                            val nadmiar= it.objawy_nadmiaru?.joinToString(" ")?.toLowerCase()
+                            val niedobor = it.objawy_niedoboru?.joinToString(" ")?.toLowerCase()
 
                             if(nadmiar!!.contains(search) or niedobor!!.contains(search) ){
                                     displayList.add(it)
